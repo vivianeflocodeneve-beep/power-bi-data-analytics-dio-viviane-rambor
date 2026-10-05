@@ -1,0 +1,5 @@
+Nome do repositório:
+power-bi-data-analytics-dio
+
+Descrição:
+Projeto de Data Analytics com Power BI desenvolvido no desafio da DIO, com análises de vendas, lucro, margem, produtos, segmentos e evolução temporal.
